@@ -8,7 +8,7 @@ The code generates an adjacency matrix that represents an undirected graph using
 
 ## Tool
 
-[Pandas](https://pandas.pydata.org)
+[pandas](https://pandas.pydata.org)
 
 ## Geographical Distance
 
